@@ -31,5 +31,6 @@
     <a href="form.php">Make a Donation</a>
     <a href="search.php">Find Donors</a>
     <a href="top-donors.php">Yesterday's Top Donor</a>
+    <a href="view-donations.php">View All Donations</a>
 </body>
 </html>
